@@ -4,7 +4,7 @@ This repository contains a series of experiments focused on Time Series Analysis
 
 ## Table of Contents
 
-1. [Experiment 1: Time Series Data Cleaning, Loading, and Pre-processing](#experiment-1)
+1. [Experiment 1: Time Series Data Cleaning, Loading, and Pre-processing](#https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp1)
 2. [Experiment 2: Visualizing Time Series Data](#experiment-2)
 3. [Experiment 3: Checking Stationarity of Time Series Data](#experiment-3)
 4. [Experiment 4: Estimating & Eliminating Trend (Aggregation, Smoothing)](#experiment-4)
