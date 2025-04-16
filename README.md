@@ -6,15 +6,14 @@ This repository contains a series of experiments focused on Time Series Analysis
 
 ### [Experiment 1: Time Series Data Cleaning, Loading, and Pre-processing](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp1)
 ### [Experiment 2: Visualizing Time Series Data](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp2)
-3. [Experiment 3: Linear Regression Model for Forecasting](#experiment-3)
-4. [Experiment 4: Estimating & Eliminating Trend (Aggregation, Smoothing)](#experiment-4)
-5. [Experiment 5: Checking Stationarity of Time Series Data](#experiment-5)
-6. [Experiment 6: Moving Average Smoothing for Forecasting](#experiment-6)
-7. [Experiment 7: Decomposing Time Series Data (Trend and Seasonality)](#experiment-7)
-8. [Experiment 8: ARIMA Model for Time Series Forecasting](#experiment-8)
-9. [Experiment 9: Neural Network-based Forecasting Model](#experiment-9)
-10. [Experiment 10: Vector Auto Regression (VAR) Model for Multivariate Forecasting](#experiment-10)
-
+### [Experiment 3: Linear Regression Model for Forecasting](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp3)  
+### [Experiment 4: Estimating & Eliminating Trend (Aggregation, Smoothing)](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp4)  
+### [Experiment 5: Checking Stationarity of Time Series Data](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp5)  
+### [Experiment 6: Moving Average Smoothing for Forecasting](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp6)  
+### [Experiment 7: Decomposing Time Series Data (Trend and Seasonality)](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp7)  
+### [Experiment 8: ARIMA Model for Time Series Forecasting](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp8)  
+### [Experiment 9: Neural Network-based Forecasting Model](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp9)  
+### [Experiment 10: Vector Auto Regression (VAR) Model for Multivariate Forecasting](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp10)  
 ## Folder Structure
 
 Each experiment is stored in a separate folder, named as `exp1`, `exp2`, ..., `exp10`. Inside each folder, you will find the following files:
@@ -32,13 +31,13 @@ Each experiment is stored in a separate folder, named as `exp1`, `exp2`, ..., `e
 ### Experiment 2: Visualizing Time Series Data
 - In this experiment, various visualization techniques such as line plots, box plots, and histograms are used to visualize time series data.
 
-### Experiment 3: Checking Stationarity of Time Series Data
+### Experiment 3: Linear Regression Model for Forecasting
 - This experiment involves testing for the stationarity of time series data using techniques like the Augmented Dickey-Fuller test.
 
 ### Experiment 4: Estimating & Eliminating Trend (Aggregation, Smoothing)
 - Techniques for eliminating trends such as aggregation and smoothing are implemented to make the data stationary and more suitable for forecasting.
 
-### Experiment 5: Linear Regression Model for Forecasting
+### Experiment 5: Checking Stationarity of Time Series Data
 - This experiment implements a linear regression model to forecast future values based on historical time series data.
 
 ### Experiment 6: Moving Average Smoothing for Forecasting
