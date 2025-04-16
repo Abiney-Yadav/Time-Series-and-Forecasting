@@ -6,9 +6,9 @@ This repository contains a series of experiments focused on Time Series Analysis
 
 ### [Experiment 1: Time Series Data Cleaning, Loading, and Pre-processing](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp1)
 ### [Experiment 2: Visualizing Time Series Data](https://github.com/Abiney-Yadav/Time-Series-and-Forecasting/tree/main/exp2)
-3. [Experiment 3: Checking Stationarity of Time Series Data](#experiment-3)
+3. [Experiment 3: Linear Regression Model for Forecasting](#experiment-3)
 4. [Experiment 4: Estimating & Eliminating Trend (Aggregation, Smoothing)](#experiment-4)
-5. [Experiment 5: Linear Regression Model for Forecasting](#experiment-5)
+5. [Experiment 5: Checking Stationarity of Time Series Data](#experiment-5)
 6. [Experiment 6: Moving Average Smoothing for Forecasting](#experiment-6)
 7. [Experiment 7: Decomposing Time Series Data (Trend and Seasonality)](#experiment-7)
 8. [Experiment 8: ARIMA Model for Time Series Forecasting](#experiment-8)
